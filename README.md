@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JochenOswald
-- 👀 I’m just doing this for a hobby
+- My Motto is: Try, fail, try again, fail better.
 - 🌱 I’m currently learning not to fail too bad
 - 📫 How to reach me ...
 
