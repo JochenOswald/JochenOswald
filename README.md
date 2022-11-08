@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JochenOswald
 - 💻 I'm a hobbyist-programmer
 - 🇩🇪 located in Germany
-- 🌱 I’m currently trying to fail better (according to: Try, Fail, Try again, Fail better)
+- 🌱 I’m currently trying to fail better (like in: Try, Fail, Try again, Fail better)
 - 📫 How to reach me ...
 
 <!---
