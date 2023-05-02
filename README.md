@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JochenOswald
-- 💻 I'm a hobbyist-programmer
-- 🇩🇪 located in Germany
-- 🌱 I’m currently trying to fail better (like in: Try, Fail, Try again, Fail better)
-- 📫 How to reach me ...
+Servus, 
+- 👋 ich bin @JochenOswald
+- 🇩🇪 ein Exil-Franke in Landshut.
+- 💻 Außerdem Hobby-Programmierer,
+- 🏃 ein ganz akzeptabler Läufer,
+- 🚴‍♂️ ein relativ schlechter Radfahrer
+- 🎺 und noch so einiges mehr.
 
 <!---
 JochenOswald/JochenOswald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
