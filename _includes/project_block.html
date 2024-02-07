@@ -1,0 +1,21 @@
+<!-- Renders post date, title, and snippet of text. -->
+<!-- Wenn ein Bild existiert: Bild an der linken Seite einfügen -->
+
+<div class="py-2 mb-2">
+  {% if post.image %}
+	<div class="col-4 sm-width-full left">
+	<div style="width: 100%; padding-top: 100%; position: relative; background: #E74727">
+	  <img style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.2" src="{{ post.image }}">
+	</div>
+	</div>
+  {% endif %}
+  <div class="col-4 sm-width-full mt-3 mt-lg-0 ml-lg-4 left">
+  <h2 class="h1 lh-condensed">
+    <a class="link-primary" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h2>
+  </div>
+  
+  <div class="clearfix col-9"
+    <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+  </div>
+</div>
